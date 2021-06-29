@@ -42,9 +42,65 @@
 <h5>:bar_chart: My activity in the last week</h5>
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-151486%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
 ```text
-No Activity tracked this Week
+🌞 Morning    7 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.72% 
+🌆 Daytime    98 commits     ██████░░░░░░░░░░░░░░░░░░░   24.14% 
+🌃 Evening    151 commits    █████████░░░░░░░░░░░░░░░░   37.19% 
+🌙 Night      150 commits    █████████░░░░░░░░░░░░░░░░   36.95%
+
 ```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday       43 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.59% 
+Tuesday      57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.04% 
+Wednesday    67 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
+Thursday     38 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.36% 
+Friday       74 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.23% 
+Saturday     61 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.02% 
+Sunday       66 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.26%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Mexico_City
+
+💬 Programming Languages: 
+JavaScript               6 hrs 36 mins       ████████████░░░░░░░░░░░░░   51.23% 
+JSX                      3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.32% 
+JSON                     1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   14.08% 
+SCSS                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.36% 
+Other                    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.9%
+
+🔥 Editors: 
+Sublime Text             12 hrs 54 mins      █████████████████████████   100.0%
+
+💻 Operating System: 
+Linux                    12 hrs 54 mins      █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               10 repos            ██████████████░░░░░░░░░░░   55.56% 
+Vue                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   22.22% 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56% 
+Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
+
+```
+
+
+
+ Last Updated on 29/06/2021
 <!--END_SECTION:waka-->
 
 <h3>:bar_chart: Stats & Streaks</h3>
