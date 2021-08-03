@@ -12,7 +12,6 @@
 
 <p>
   <a href="https://t.me/gitusr"><img src="https://genx.vercel.app/api/icon/telegram" alt="@gitusr" /></a>
-  <a href="https://twitter.com/animationsnow"><img src="https://genx.vercel.app/api/icon/twitter" alt="@AnimationsNow" /></a>
 </p>
 
 <h5>:memo: Goals to archieve</h5>
@@ -23,14 +22,15 @@
 
 <h5>:toolbox: Some editors, languages & tools I use</h5>
 <p>
-  <img src="https://genx.vercel.app/api/icon/node.js" alt="Node.js" />
+  <img src="https://genx.vercel.app/api/icon/node.js" alt="NodeJS" />
   <img src="https://genx.vercel.app/api/icon/express" alt="Express" />
   <img src="https://genx.vercel.app/api/icon/yarn" alt="Yarn" />
   <img src="https://genx.vercel.app/api/icon/electron" alt="Electron" />
   <img src="https://genx.vercel.app/api/icon/javascript" alt="Javascript" />
   <img src="https://genx.vercel.app/api/icon/react" alt="React" />
-  <img src="https://genx.vercel.app/api/icon/next.js" alt="Next.js" />
-  <img src="https://genx.vercel.app/api/icon/vue.js" alt="Vue.js" />
+  <img src="https://genx.vercel.app/api/icon/next.js" alt="NextJS" />
+  <img src="https://genx.vercel.app/api/icon/vue.js" alt="VueJS" />
+  <img src="https://genx.vercel.app/api/icon/nuxt.js" alt="NuxtJS" />
   <img src="https://genx.vercel.app/api/icon/firebase" alt="Firebase" />
   <img src="https://genx.vercel.app/api/icon/sentry" alt="Sentry" />
   <img src="https://genx.vercel.app/api/icon/git" alt="Git" />
