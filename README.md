@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Hi" width="28" />. I'm a Web Developer (xd)</h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" alt="Hi" width="28" />. I'm a Web Developer (xd)</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0389FF&amp;center=true&amp;lines=I+%E2%9D%A4%EF%B8%8F+JavaScript;I+%E2%9D%A4%EF%B8%8F+Anime;I+%E2%9D%A4%EF%B8%8F+Nature" alt="Typing SVG" />
 </p>
@@ -35,6 +35,8 @@
   <img src="https://genx.vercel.app/api/icon/sentry" alt="Sentry" />
   <img src="https://genx.vercel.app/api/icon/git" alt="Git" />
   <img src="https://genx.vercel.app/api/icon/heroku" alt="Heroku" />
+  <img src="https://genx.vercel.app/api/icon/flutter" alt="Flutter" />
+  <img src="https://genx.vercel.app/api/icon/dart" alt="Dart" />
   <img src="https://genx.vercel.app/api/icon/sublimetext" alt="Sublimetext" />
   <img src="https://genx.vercel.app/api/icon/neovim" alt="Neovim" />
 </p>
