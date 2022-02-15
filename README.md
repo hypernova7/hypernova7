@@ -44,7 +44,7 @@
 <h5>:bar_chart: My activity in the last week</h5>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-785%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-785%20hrs%2014%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-97%20Thousand%20lines%20of%20code-blue)
 
@@ -100,7 +100,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 15/02/2022 01:39:11 UTC
+ Last Updated on 15/02/2022 01:43:28 UTC
 <!--END_SECTION:waka-->
 
 <h3>:bar_chart: Stats & Streaks</h3>
