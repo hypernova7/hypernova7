@@ -44,6 +44,8 @@
 <h5>:bar_chart: My activity in the last week</h5>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-786%20hrs%2029%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-97%20Thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -75,13 +77,17 @@ Sunday       59 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 7 mins         ██████████████████░░░░░░░   74.16% 
+JSON                     17 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.95% 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   5.54% 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.14% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Sublime Text             1 hr 30 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 30 mins        █████████████████████████   100.0%
 
 ```
 
@@ -98,7 +104,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2022 01:06:13 UTC
+ Last Updated on 16/02/2022 01:11:07 UTC
 <!--END_SECTION:waka-->
 
 <h3>:bar_chart: Stats & Streaks</h3>
