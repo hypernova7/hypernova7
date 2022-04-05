@@ -77,14 +77,13 @@ Sunday       51 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-HTML                     2 hrs 7 mins        ████████████████████████░   97.54% 
-JavaScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.46%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             2 hrs 11 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 11 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -101,7 +100,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/04/2022 02:03:14 UTC
+ Last Updated on 05/04/2022 01:22:29 UTC
 <!--END_SECTION:waka-->
 
 <h3>:bar_chart: Stats & Streaks</h3>
