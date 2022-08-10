@@ -44,7 +44,7 @@
 <h5>:bar_chart: My activity in the last week</h5>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C258%20hrs%2027%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-104%20Thousand%20lines%20of%20code-blue)
 
@@ -77,16 +77,14 @@ Sunday       56 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-JavaScript               9 hrs 26 mins       ██████████████░░░░░░░░░░░   56.23% 
-TypeScript               6 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   37.62% 
-JSON                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.93% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
+TypeScript               1 hr 12 mins        ██████████████████████░░░   88.46% 
+JavaScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.54%
 
 🔥 Editors: 
-Sublime Text             16 hrs 47 mins      █████████████████████████   100.0%
+Sublime Text             1 hr 22 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    16 hrs 47 mins      █████████████████████████   100.0%
+Linux                    1 hr 22 mins        █████████████████████████   100.0%
 
 ```
 
@@ -103,7 +101,7 @@ Shell                    2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/08/2022 01:57:00 UTC
+ Last Updated on 10/08/2022 01:45:50 UTC
 <!--END_SECTION:waka-->
 
 <h3>:bar_chart: Stats & Streaks</h3>
