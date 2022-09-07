@@ -1,9 +1,9 @@
-<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" alt="Hi" width="28" />. I'm a Web Developer (xd)</h1>
+<h1 align="center">Hi <img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" alt="Hi" width="28" />. I'm a Full Stack JavaScript Developer</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=0389FF&amp;center=true&amp;lines=I+%E2%9D%A4%EF%B8%8F+JavaScript;I+%E2%9D%A4%EF%B8%8F+Anime;I+%E2%9D%A4%EF%B8%8F+Nature" alt="Typing SVG" />
 </p>
 
-<h3>:ghost: About me.</h3>
+<h2>:ghost: About me.</h2>
 <p>
   I'm from :mexico:. I'm a singular person with somewhat ingrained tastes. I like anime, nature and animals. At the moment I only program in JavaScript.
 </p>
@@ -14,17 +14,19 @@
   <a href="https://t.me/gitusr"><img src="https://genx.vercel.app/api/icon/telegram" alt="@gitusr" /></a>
 </p>
 
-<h5>:memo: Goals to archieve</h5>
+<h3>:memo: Goals to archieve</h3>
 <ul>
-  <li><strong>Learn C++ (<em>Maybe...</em>)</strong></li>
+  <li><strong>Learn C++</strong></li>
   <li><strong>Learn TypeScript</strong></li>
+  <li><strong>Learn Rust</strong></li>
 </ul>
 
-<h5>:toolbox: Some editors, languages & tools I use</h5>
+<h3>:toolbox: Some editors, languages & tools I use</h3>
 <p>
   <img src="https://genx.vercel.app/api/icon/node.js" alt="NodeJS" />
   <img src="https://genx.vercel.app/api/icon/express" alt="Express" />
   <img src="https://genx.vercel.app/api/icon/yarn" alt="Yarn" />
+  <img src="https://genx.vercel.app/api/icon/pnpm" alt="Pnpm" />
   <img src="https://genx.vercel.app/api/icon/electron" alt="Electron" />
   <img src="https://genx.vercel.app/api/icon/javascript" alt="Javascript" />
   <img src="https://genx.vercel.app/api/icon/react" alt="React" />
@@ -41,72 +43,15 @@
   <img src="https://genx.vercel.app/api/icon/neovim" alt="Neovim" />
 </p>
 
-<h5>:bar_chart: My activity in the last week</h5>
+<h2>:bar_chart: My activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C297%20hrs%208%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-104%20Thousand%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    4 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.56% 
-🌆 Daytime    45 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.51% 
-🌃 Evening    85 commits     ████████░░░░░░░░░░░░░░░░░   33.07% 
-🌙 Night      123 commits    ████████████░░░░░░░░░░░░░   47.86%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.28% 
-Tuesday      35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.62% 
-Wednesday    34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.23% 
-Thursday     29 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.28% 
-Friday       36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.01% 
-Saturday     35 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.62% 
-Sunday       59 commits     █████░░░░░░░░░░░░░░░░░░░░   22.96%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/Mexico_City
-
-💬 Programming Languages: 
-JavaScript               6 hrs 17 mins       ███████████████░░░░░░░░░░   63.42% 
-Other                    2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   22.47% 
-SCSS                     1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
-Bash                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.72%
-
-🔥 Editors: 
-Sublime Text             9 hrs 54 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    9 hrs 54 mins       █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               13 repos            ███████████░░░░░░░░░░░░░░   44.83% 
-Vue                      6 repos             █████░░░░░░░░░░░░░░░░░░░░   20.69% 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
-Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.9%
-
-```
-
-
-
- Last Updated on 07/09/2022 02:49:49 UTC
+\`\`\`text
+No Activity tracked this Week
+\`\`\`
 <!--END_SECTION:waka-->
 
-<h3>:bar_chart: Stats & Streaks</h3>
+<h2>:bar_chart: Stats & Streaks</h2>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hypernova7&amp;theme=nord" alt="GitHub Streaks" width="49%" />
   <img src="https://gitcard.vercel.app/api?username=hypernova7&amp;show_icons=true&amp;theme=nord" alt="GitHub Stats" width="49%" />

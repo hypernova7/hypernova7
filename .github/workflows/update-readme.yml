@@ -1,4 +1,4 @@
-name: Update Waka Metrics on README
+name: Update Waka Readme Stats
 
 on:
   push:
@@ -11,7 +11,7 @@ on:
 
 jobs:
   update-readme:
-    name: Update README
+    name: Update README.md
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
