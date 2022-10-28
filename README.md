@@ -46,7 +46,7 @@
 <h2>:bar_chart: My activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C471%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C472%20hrs%2024%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-108%20Thousand%20lines%20of%20code-blue)
 
@@ -79,13 +79,14 @@ Sunday       61 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-JavaScript               2 mins              █████████████████████████   100.0%
+JSON                     15 mins             █████████████░░░░░░░░░░░░   55.32% 
+JavaScript               12 mins             ███████████░░░░░░░░░░░░░░   44.68%
 
 🔥 Editors: 
-Sublime Text             2 mins              █████████████████████████   100.0%
+Sublime Text             27 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    2 mins              █████████████████████████   100.0%
+Linux                    27 mins             █████████████████████████   100.0%
 
 ```
 
@@ -102,7 +103,7 @@ Shell                    3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 27/10/2022 02:29:54 UTC
+ Last Updated on 28/10/2022 02:05:14 UTC
 <!--END_SECTION:waka-->
 
 <h2>:bar_chart: Stats & Streaks</h2>
