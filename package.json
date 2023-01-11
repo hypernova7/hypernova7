@@ -1,0 +1,31 @@
+{
+  "name": "hypernova7",
+  "version": "1.0.0",
+  "private": true,
+  "description": "My special github repository",
+  "repository": "git@github.com:hypernova7/hypernova7.git",
+  "type": "module",
+  "license": "MIT",
+  "author": "Eddy Otsutsuki <23711001+hypernova7@users.noreply.github.com>",
+  "main": "main.js",
+  "scripts": {
+    "build": "jiti main.js",
+    "lint": "prettier -cw . && eslint --fix ."
+  },
+  "devDependencies": {
+    "consola": "2.15.3",
+    "eslint": "8.32.0",
+    "eslint-config-prettier": "8.6.0",
+    "eslint-plugin-import": "2.27.4",
+    "eslint-plugin-prettier": "4.2.1",
+    "eslint-plugin-unicorn": "45.0.2",
+    "handlebars": "4.7.7",
+    "jiti": "1.16.2",
+    "ora": "6.1.2",
+    "prettier": "2.8.3"
+  },
+  "engines": {
+    "node": "18.x",
+    "pnpm": "7.x"
+  }
+}

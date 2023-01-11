@@ -1,0 +1,36 @@
+{
+  "hi_gif": "https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111",
+  "typing_gif": "https://readme-typing-svg.herokuapp.com?color=0389FF&center=true&lines=I+%E2%9D%A4%EF%B8%8F+JavaScript;I+%E2%9D%A4%EF%B8%8F+Anime;I+%E2%9D%A4%EF%B8%8F+Nature",
+  "about_me": "I'm from :mexico:. I'm a singular person with somewhat ingrained tastes.",
+  "hero_img": "https://github.com/hypernova7/hypernova7/raw/main/static/images/undraw_feeling_proud_qne1.svg",
+  "social": [
+    {
+      "icon": "telegram",
+      "url": "https://t.me/gitusr",
+      "username": "@gitusr"
+    }
+  ],
+  "todo": ["Learn C++", "Learn TypeScript", "Learn Rust (In progress)"],
+  "editors": ["sublimetext", "neovim"],
+  "languages": ["javascript", "rust", "php"],
+  "skills": [
+    "git",
+    "docker",
+    "heroku",
+    "firebase",
+    "sentry",
+    "node.js",
+    "pnpm",
+    "yarn",
+    "vue.js",
+    "nuxt.js",
+    "react",
+    "next.js",
+    "tailwindcss",
+    "webpack"
+  ],
+  "streaks": "https://github-readme-streak-stats.herokuapp.com/?user=hypernova7&hide_border=true&boder_radius=0",
+  "stats": "https://gitcard.vercel.app/api?username=hypernova7&show_icons=true&hide_border=true&boder_radius=0",
+  "views": "https://genx.vercel.app/api/views/hypernova7",
+  "years": "https://badge.deta.dev/github/years/hypernova7"
+}

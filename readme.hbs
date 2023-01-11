@@ -1,0 +1,63 @@
+{{#h1 align='center'}}Hi {{img hi_gif alt='Hi' width='28' embed=false}}. I'm a Full Stack JavaScript Developer{{/h1}}
+{{#p align='center'}}
+  {{img typing_gif alt='Typing'}}
+{{/p}}
+
+
+{{#h2}}:ghost: About me{{/h2}}
+{{p about_me}}
+
+{{img hero_img align='right' alt='Hero Image' width='380'}}
+
+{{#p}}
+  {{#each social}}
+    {{#link this.url}}{{badge this.icon alt=this.username}}{{/link}}
+  {{/each}}
+{{/p}}
+
+
+{{#h3}}:memo: Goals to archieve{{/h3}}
+<ul>
+  {{#each todo}}
+    {{task this}}
+  {{/each}}
+</ul>
+
+{{#h3}}:pen: Editors{{/h3}}
+{{#p}}
+  {{#each editors}}
+    {{badge this}}
+  {{/each}}
+{{/p}}
+
+
+{{#h3}}:keyboard: Languages{{/h3}}
+{{#p}}
+  {{#each languages}}
+    {{badge this}}
+  {{/each}}
+{{/p}}
+
+
+{{#h3}}:nerd_face: Skills{{/h3}}
+{{#p}}
+  {{#each skills}}
+    {{badge this}}
+  {{/each}}
+{{/p}}
+
+
+{{#h2}}:bar_chart: My activity{{/h2}}
+<!--START_SECTION:waka-->
+{{#code lang='text'}}No Activity tracked this Week{{/code}}
+<!--END_SECTION:waka-->
+
+{{#h2}}:bar_chart: Streaks &amp; Stats{{/h2}}
+{{#p aling='center'}}
+  {{img streaks alt='GitHub Streaks' width='49%' srcset=(join streaks '&theme=nord') dark=true}}
+  {{img stats alt='GitHub Stats' width='49%' srcset=(join stats '&theme=nord') dark=true}}
+{{/p}}
+
+
+{{img views alt='GitHub Views' align='right'}}
+{{img years alt='Years on GitHub' align='right'}}
