@@ -85,14 +85,13 @@ Sunday                   12455 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-Rust                     1 hr 18 mins        ████████████████████████░   97.44 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             1 hr 20 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 20 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
