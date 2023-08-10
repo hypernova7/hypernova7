@@ -85,15 +85,13 @@ Sunday                   12476 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-JavaScript               12 mins             █████████████████░░░░░░░░   66.17 % 
-INI                      3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Git Config               3 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    19 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
