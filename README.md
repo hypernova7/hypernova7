@@ -54,7 +54,7 @@
 <h2>:bar_chart: My activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C714%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C714%20hrs%2048%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
 
@@ -85,13 +85,14 @@ Sunday                   15621 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               13 mins             █████████████████░░░░░░░░   66.55 % 
+JSON                     6 mins              ████████░░░░░░░░░░░░░░░░░   33.45 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Sublime Text             19 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    19 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
