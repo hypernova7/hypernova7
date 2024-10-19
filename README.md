@@ -61,7 +61,7 @@
 
 <p aling="center">  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hypernova7&amp;hide_border=true&amp;boder_radius=0&amp;theme=nord"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hypernova7&amp;hide_border=true&amp;boder_radius=0" alt="GitHub Streaks" width="49%" /></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://gitcard.vercel.app/api?username=hypernova7&amp;show_icons=true&amp;hide_border=true&amp;boder_radius=0&amp;theme=nord"><img src="https://gitcard.vercel.app/api?username=hypernova7&amp;show_icons=true&amp;hide_border=true&amp;boder_radius=0" alt="GitHub Stats" width="49%" /></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hypernova7&amp;theme=nord"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hypernova7" alt="GitHub Profile Details" width="98%" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hypernova7&amp;theme=nord_dark"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hypernova7" alt="GitHub Profile Details" width="98%" /></picture>
 </p>
 
 <picture><img src="https://genx.vercel.app/api/views/hypernova7" align="right" alt="GitHub Views" /></picture>
