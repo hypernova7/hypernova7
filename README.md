@@ -54,7 +54,63 @@
 <h2>:bar_chart: My activity</h2>
 
 <!--START_SECTION:waka-->
-<code><pre class="language-text">No Activity tracked this Week</pre></code>
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C081%20hrs%2014%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.3%20million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2954 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+🌆 Daytime                20859 commits       █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
+🌃 Evening                36415 commits       ████████░░░░░░░░░░░░░░░░░   33.94 % 
+🌙 Night                  47058 commits       ███████████░░░░░░░░░░░░░░   43.86 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   11596 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Tuesday                  15023 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Wednesday                11614 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
+Thursday                 12489 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Friday                   16169 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
+Saturday                 17964 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+Sunday                   22431 commits       █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: America/Mexico_City
+
+💬 Programming Languages: 
+Rust                     28 hrs 7 mins       ████████████████████████░   97.08 % 
+Other                    22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+INI                      15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.89 % 
+TOML                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Sublime Text Config      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+
+🔥 Editors: 
+Sublime Text             28 hrs 58 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    28 hrs 58 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               19 repos            ███████████░░░░░░░░░░░░░░   45.24 % 
+Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+```
+
+
+
+
 <!--END_SECTION:waka-->
 
 <h2>:bar_chart: Streaks &amp; Stats</h2>
