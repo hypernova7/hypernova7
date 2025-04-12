@@ -85,14 +85,13 @@ Sunday                   25493 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-JavaScript               1 hr 10 mins        ███████████████████████░░   91.37 % 
-Vue.js                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             1 hr 17 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    1 hr 17 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
