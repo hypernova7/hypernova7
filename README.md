@@ -9,114 +9,70 @@
 
 <picture><img src="https://github.com/hypernova7/hypernova7/raw/main/static/images/undraw_feeling_proud_qne1.svg" align="right" alt="Hero Image" width="380" /></picture>
 
-<p>    <a href="https://t.me/gitusr"><picture><img src="https://genx.vercel.app/api/icon/telegram" alt="@gitusr" /></picture></a>
+<p>    <a href="https://discord.com/users/1084003572787728394"><picture><img src="https://skillicons.dev/icons?i=discord" alt="#gitusr" /></picture></a>
+    <a href="https://t.me/gitusr"><picture><img src="https://skillicons.dev/icons?i=telegram" alt="@gitusr" /></picture></a>
 </p>
 
 <h3>:memo: Goals to archieve</h3>
 
 <ul>
     <li><strong>Learn C++</strong></li>
-    <li><strong>Learn TypeScript</strong></li>
+    <li><strong>Learn TypeScript (In progress)</strong></li>
     <li><strong>Learn Rust (In progress)</strong></li>
 </ul>
 
 <h3>:pen: Editors</h3>
 
-<p>    <picture><img src="https://genx.vercel.app/api/icon/sublimetext" /></picture>
-    <picture><img src="https://genx.vercel.app/api/icon/neovim" /></picture>
+<p>    <picture><img src="https://skillicons.dev/icons?i=sublime" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=neovim" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=vscode" /></picture>
 </p>
 
 <h3>:keyboard: Languages</h3>
 
-<p>    <picture><img src="https://genx.vercel.app/api/icon/javascript" /></picture>
-    <picture><img src="https://genx.vercel.app/api/icon/rust" /></picture>
-    <picture><img src="https://genx.vercel.app/api/icon/php" /></picture>
+<p>    <picture><img src="https://skillicons.dev/icons?i=javascript" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=typescript" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=rust" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=php" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=python" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=bash" /></picture>
 </p>
 
 <h3>:nerd_face: Skills</h3>
 
-<p>    <picture><img src="https://genx.vercel.app/api/icon/git" /></picture>
-    <picture><img src="https://genx.vercel.app/api/icon/docker" /></picture>
-    <picture><img src="https://genx.vercel.app/api/icon/heroku" /></picture>
-    <picture><img src="https://genx.vercel.app/api/icon/firebase" /></picture>
-    <picture><img src="https://genx.vercel.app/api/icon/sentry" /></picture>
-    <picture><img src="https://genx.vercel.app/api/icon/node.js" /></picture>
-    <picture><img src="https://genx.vercel.app/api/icon/pnpm" /></picture>
-    <picture><img src="https://genx.vercel.app/api/icon/yarn" /></picture>
-    <picture><img src="https://genx.vercel.app/api/icon/vue.js" /></picture>
-    <picture><img src="https://genx.vercel.app/api/icon/nuxt.js" /></picture>
-    <picture><img src="https://genx.vercel.app/api/icon/react" /></picture>
-    <picture><img src="https://genx.vercel.app/api/icon/next.js" /></picture>
-    <picture><img src="https://genx.vercel.app/api/icon/tailwindcss" /></picture>
-    <picture><img src="https://genx.vercel.app/api/icon/webpack" /></picture>
+<p>    <picture><img src="https://skillicons.dev/icons?i=git" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=github" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=docker" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=linux" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=heroku" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=firebase" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=sentry" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=nodejs" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=pnpm" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=yarn" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=vue" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=nuxt" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=react" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=next" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=tailwindcss" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=webpack" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=vite" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=sass" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=bun" /></picture>
+    <picture><img src="https://skillicons.dev/icons?i=express" /></picture>
 </p>
 
 <h2>:bar_chart: My activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C049%20hrs%2018%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-7.3%20million%20lines%20of%20code-blue)
-
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                2954 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-🌆 Daytime                20847 commits       █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-🌃 Evening                36404 commits       ████████░░░░░░░░░░░░░░░░░   33.94 % 
-🌙 Night                  47055 commits       ███████████░░░░░░░░░░░░░░   43.87 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   11596 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Tuesday                  15023 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.01 % 
-Wednesday                11612 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Thursday                 12472 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Friday                   16167 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-Saturday                 17959 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-Sunday                   22431 commits       █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Mexico_City
-
-💬 Programming Languages: 
-Rust                     4 hrs 6 mins        █████████████░░░░░░░░░░░░   50.68 % 
-Other                    3 hrs 55 mins       ████████████░░░░░░░░░░░░░   48.51 % 
-Lua                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
-Sublime Text Config      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-
-🔥 Editors: 
-Sublime Text             8 hrs 5 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    8 hrs 5 mins        █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               19 repos            ███████████░░░░░░░░░░░░░░   45.24 % 
-Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-Dockerfile               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
-```
-
-
-
-
+<code><pre class="language-text">No Activity tracked this Week</pre></code>
 <!--END_SECTION:waka-->
 
 <h2>:bar_chart: Streaks &amp; Stats</h2>
 
 <p aling="center">  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=hypernova7&amp;hide_border=true&amp;boder_radius=0&amp;theme=nord"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hypernova7&amp;hide_border=true&amp;boder_radius=0" alt="GitHub Streaks" width="49%" /></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="https://gitcard.vercel.app/api?username=hypernova7&amp;show_icons=true&amp;hide_border=true&amp;boder_radius=0&amp;theme=nord"><img src="https://gitcard.vercel.app/api?username=hypernova7&amp;show_icons=true&amp;hide_border=true&amp;boder_radius=0" alt="GitHub Stats" width="49%" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hypernova7&amp;theme=nord"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hypernova7" alt="GitHub Profile Details" width="98%" /></picture>
 </p>
 
 <picture><img src="https://genx.vercel.app/api/views/hypernova7" align="right" alt="GitHub Views" /></picture>

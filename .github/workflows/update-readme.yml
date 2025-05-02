@@ -3,7 +3,7 @@ name: Update Waka Readme Stats
 on:
   push:
     paths:
-      - 'README.md'
+      - README.md
   workflow_dispatch:
   schedule:
     # Runs at 12am UTC
@@ -24,4 +24,4 @@ jobs:
           SHOW_SHORT_INFO: 'False'
           SHOW_LOC_CHART: 'False'
           SHOW_PROJECTS: 'False'
-          LOCALE: 'en'
+          LOCALE: en

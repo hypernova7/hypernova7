@@ -1,17 +1,18 @@
-import ora from 'ora';
-import consola from 'consola';
-import { resolve } from 'node:path';
 import { readFile, writeFile } from 'node:fs/promises';
+import { resolve } from 'node:path';
+import consola from 'consola';
 import Handlebars from 'handlebars';
+import ora from 'ora';
 import data from './hypernova7';
 
 const urlRegex = /(https?:\/\/[^ ]*)/gi;
 const spinner = ora('Generating README.md').start();
 const logger = consola.withTag('readme');
+const basedir = process.cwd();
 
 Handlebars.registerHelper({
   ...createHeaders(6),
-  badge: createImg('https://genx.vercel.app/api/icon'),
+  badge: createImg('https://skillicons.dev/icons?i='),
   task: createTag('li', 'strong'),
   code: createTag('code', 'pre'),
   b: createTag('strong'),
@@ -23,16 +24,16 @@ Handlebars.registerHelper({
 
 run();
 
-async function run () {
+async function run() {
   try {
     await sleep(500);
     spinner.text = 'Compiling README.md';
     await sleep(500);
     const readme = await compile(data);
-    const output = readme.replace(urlRegex, url => url.replace(/&/g, '&amp;'));
+    const output = readme.replaceAll(urlRegex, url => url.replaceAll('&', '&amp;'));
     spinner.text = 'Writing README.md';
     await sleep(500);
-    await writeFile(resolve(__dirname, 'README.md'), output, 'utf8');
+    await writeFile(resolve(basedir, 'README.md'), output, 'utf8');
     await sleep(500);
     spinner.succeed('Done!!');
   } catch (error) {
@@ -41,8 +42,8 @@ async function run () {
   }
 }
 
-async function compile (data = {}) {
-  const readme = await readFile(resolve(__dirname, 'readme.hbs'), 'utf8');
+async function compile(data = {}) {
+  const readme = await readFile(resolve(basedir, 'readme.hbs'), 'utf8');
   const template = Handlebars.compile(readme, {
     noEscape: true
   });
@@ -50,13 +51,13 @@ async function compile (data = {}) {
   return template(data);
 }
 
-function joinValues () {
+function joinValues() {
   return function (value, ctx) {
     return `${value}${ctx}`;
   };
 }
 
-function createHeaders (num) {
+function createHeaders(num) {
   const headers = {};
 
   for (let i = 0; i < num; i += 1) {
@@ -70,6 +71,7 @@ function createHeaders (num) {
           if (Object.prototype.hasOwnProperty.call(obj, key)) {
             return `${key}="${obj[key]}"`;
           }
+          return null;
         })
         .filter(Boolean);
 
@@ -80,13 +82,13 @@ function createHeaders (num) {
   return headers;
 }
 
-function createLink () {
+function createLink() {
   return function (value, ctx) {
     return `<a href="${value}">${ctx.fn(this)}</a>`;
   };
 }
 
-function createImg (url) {
+function createImg(url) {
   return function (value, ctx) {
     const imgAttrs = [];
     const sourceAttrs = [];
@@ -102,20 +104,20 @@ function createImg (url) {
     }
 
     const sourceTag = ctx?.hash?.srcset
-      ? `<source` +
-        `${ctx?.hash?.dark ? ' media="(prefers-color-scheme: dark)"' : ''}` +
-        `${sourceAttrs.length > 0 ? ` ${sourceAttrs.join(' ')}` : ''}>`
+      ? `<source${String(
+          ctx?.hash?.dark ? ' media="(prefers-color-scheme: dark)"' : ''
+        )}${sourceAttrs.length > 0 ? ` ${sourceAttrs.join(' ')}` : ''}>`
       : '';
 
     const imgTag =
-      `<img src="${url ? `${url}/` : ''}${value}"` +
+      `<img src="${url ? String(url) : ''}${value}"` +
       `${imgAttrs.length > 0 ? ` ${imgAttrs.join(' ')}` : ''} />`;
 
     return ctx?.hash?.embed === false ? imgTag : `<picture>${sourceTag}${imgTag}</picture>`;
   };
 }
 
-function createTag (tag, child) {
+function createTag(tag, child) {
   return function (value, ctx) {
     const text = ctx?.fn?.(this) ?? value?.fn?.(this) ?? value;
     const attrs = Object.keys(ctx?.hash ?? value?.hash ?? {})
@@ -125,20 +127,19 @@ function createTag (tag, child) {
         if (Object.prototype.hasOwnProperty.call(obj, key) && tag !== 'code' && child !== 'pre') {
           return `${key}="${obj[key]}"`;
         }
+        return null;
       })
       .filter(Boolean);
 
     const lang = ctx?.hash?.lang ?? value?.hash?.lang;
     const language = tag === 'code' && child === 'pre' && lang ? ` class="language-${lang}"` : '';
 
-    return (
-      `<${tag}${attrs.length > 0 ? ` ${attrs.join(' ')}` : ''}>` +
-      `${child ? `<${child}${language}>${text}</${child}>` : text}` +
-      `</${tag}>`
-    );
+    return `<${tag}${attrs.length > 0 ? ` ${attrs.join(' ')}` : ''}>${String(
+      child ? `<${child}${language}>${text}</${child}>` : text
+    )}</${tag}>`;
   };
 }
 
-function sleep (t) {
+function sleep(t) {
   return new Promise(r => setTimeout(r, t));
 }

@@ -5,29 +5,40 @@
   "hero_img": "https://github.com/hypernova7/hypernova7/raw/main/static/images/undraw_feeling_proud_qne1.svg",
   "social": [
     {
+      "icon": "discord",
+      "url": "https://discord.com/users/1084003572787728394",
+      "username": "#gitusr"
+    },
+    {
       "icon": "telegram",
       "url": "https://t.me/gitusr",
       "username": "@gitusr"
     }
   ],
-  "todo": ["Learn C++", "Learn TypeScript", "Learn Rust (In progress)"],
-  "editors": ["sublimetext", "neovim"],
-  "languages": ["javascript", "rust", "php"],
+  "todo": ["Learn C++", "Learn TypeScript (In progress)", "Learn Rust (In progress)"],
+  "editors": ["sublime", "neovim", "vscode"],
+  "languages": ["javascript", "typescript", "rust", "php", "python", "bash"],
   "skills": [
     "git",
+    "github",
     "docker",
+    "linux",
     "heroku",
     "firebase",
     "sentry",
-    "node.js",
+    "nodejs",
     "pnpm",
     "yarn",
-    "vue.js",
-    "nuxt.js",
+    "vue",
+    "nuxt",
     "react",
-    "next.js",
+    "next",
     "tailwindcss",
-    "webpack"
+    "webpack",
+    "vite",
+    "sass",
+    "bun",
+    "express"
   ],
   "streaks": "https://github-readme-streak-stats.herokuapp.com/?user=hypernova7&hide_border=true&boder_radius=0",
   "stats": "https://gitcard.vercel.app/api?username=hypernova7&show_icons=true&hide_border=true&boder_radius=0",
