@@ -1,4 +1,4 @@
-{{#h1 align='center'}}Hi {{img hi_gif alt='Hi' width='28' embed=false}}. I'm a Full Stack JavaScript Developer{{/h1}}
+{{#h1 align='center'}}Hi {{img hi_gif alt='Hi' width='28'}}. I'm a Full Stack JavaScript Developer{{/h1}}
 {{#p align='center'}}
   {{img typing_gif alt='Typing'}}
 {{/p}}
@@ -11,39 +11,35 @@
 
 {{#p}}
   {{#each social}}
-    {{#link this.url}}{{badge this.icon alt=this.username}}{{/link}}
+    {{#link this.url}}
+      {{badge this.icon alt=this.username}}
+    {{/link}}
   {{/each}}
 {{/p}}
 
 
 {{#h3}}:memo: Goals to archieve{{/h3}}
-<ul>
+{{#ul}}
   {{#each todo}}
     {{task this}}
   {{/each}}
-</ul>
+{{/ul}}
 
 {{#h3}}:pen: Editors{{/h3}}
 {{#p}}
-  {{#each editors}}
-    {{badge this}}
-  {{/each}}
+  {{badge editors}}
 {{/p}}
 
 
 {{#h3}}:keyboard: Languages{{/h3}}
 {{#p}}
-  {{#each languages}}
-    {{badge this}}
-  {{/each}}
+  {{badge languages}}
 {{/p}}
 
 
 {{#h3}}:nerd_face: Skills{{/h3}}
 {{#p}}
-  {{#each skills}}
-    {{badge this}}
-  {{/each}}
+  {{badge skills}}
 {{/p}}
 
 

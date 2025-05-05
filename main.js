@@ -19,6 +19,7 @@ Handlebars.registerHelper({
   join: joinValues(),
   link: createLink(),
   p: createTag('p'),
+  ul: createTag('ul'),
   img: createImg()
 });
 
@@ -113,7 +114,9 @@ function createImg(url) {
       `<img src="${url ? String(url) : ''}${value}"` +
       `${imgAttrs.length > 0 ? ` ${imgAttrs.join(' ')}` : ''} />`;
 
-    return ctx?.hash?.embed === false ? imgTag : `<picture>${sourceTag}${imgTag}</picture>`;
+    return (ctx?.hash?.embed || ctx?.hash?.dark) === true
+      ? `<picture>${sourceTag}${imgTag}</picture>`
+      : imgTag;
   };
 }
 
