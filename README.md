@@ -37,52 +37,16 @@
 <h2>:bar_chart: My activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C745%20hrs%2034%20mins-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.40%20million%20lines%20of%20code-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
+**I Mostly Code in JavaScript** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Mexico_City
-
-💬 Programming Languages: 
-TypeScript               22 hrs 15 mins      █████████████████░░░░░░░░   69.34 % 
-Vue                      8 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.73 % 
-JavaScript               59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.09 % 
-JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Python                   14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-
-🔥 Editors: 
-VS Code                  32 hrs 5 mins       █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    32 hrs 5 mins       █████████████████████████   100.00 % 
-```
-
-```text
-
+JavaScript               18 repos            ██████████░░░░░░░░░░░░░░░   40.91 % 
+TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Shell                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 
