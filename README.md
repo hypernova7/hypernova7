@@ -37,28 +37,28 @@
 <h2>:bar_chart: My activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C892%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C903%20hrs%2011%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-0%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.40%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌞 Morning                3469 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+🌆 Daytime                24545 commits       █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+🌃 Evening                42830 commits       ████████░░░░░░░░░░░░░░░░░   33.91 % 
+🌙 Night                  55479 commits       ███████████░░░░░░░░░░░░░░   43.92 % 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Monday                   13667 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Tuesday                  17761 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+Wednesday                13653 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Thursday                 14629 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+Friday                   19070 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+Saturday                 21167 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+Sunday                   26376 commits       █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
 ```
 
 
@@ -68,21 +68,27 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               22 hrs 28 mins      █████████████████████░░░░   82.79 % 
-Vue                      3 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-JSON                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-JavaScript               12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+TypeScript               32 hrs 52 mins      ██████████████████████░░░   88.46 % 
+Vue                      3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
+JSON                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+JavaScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  37 hrs 9 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    27 hrs 9 mins       █████████████████████████   100.00 % 
+Linux                    37 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
-```text
+**I Mostly Code in JavaScript** 
 
+```text
+JavaScript               18 repos            ██████████░░░░░░░░░░░░░░░   40.91 % 
+TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+Shell                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 
