@@ -37,7 +37,7 @@
 <h2>:bar_chart: My activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C903%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C914%20hrs%2038%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.40%20million%20lines%20of%20code-blue?style=flat)
 
@@ -68,17 +68,18 @@ Sunday                   26376 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               32 hrs 52 mins      ██████████████████████░░░   88.46 % 
-Vue                      3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-JSON                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-JavaScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
-Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+TypeScript               36 hrs 49 mins      █████████████████████░░░░   85.66 % 
+Vue                      3 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+JavaScript               2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+JSON                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 🔥 Editors: 
-VS Code                  37 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  42 hrs 40 mins      █████████████████████████   99.30 % 
+Copilot CLI              18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 
 💻 Operating System: 
-Linux                    37 hrs 9 mins       █████████████████████████   100.00 % 
+Linux                    42 hrs 59 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
