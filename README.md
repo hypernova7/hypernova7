@@ -37,11 +37,11 @@
 <h2>:bar_chart: My activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C698%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C702%20hrs%2012%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2020%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.40%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.41%20million%20lines%20of%20code-blue?style=flat)
 
 **I'm a Night 🦉** 
 
@@ -49,14 +49,14 @@
 🌞 Morning                3469 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
 🌆 Daytime                24548 commits       █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
 🌃 Evening                42852 commits       ████████░░░░░░░░░░░░░░░░░   33.91 % 
-🌙 Night                  55492 commits       ███████████░░░░░░░░░░░░░░   43.92 % 
+🌙 Night                  55496 commits       ███████████░░░░░░░░░░░░░░   43.92 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday                   13667 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
 Tuesday                  17777 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Wednesday                13653 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Wednesday                13657 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
 Thursday                 14629 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
 Friday                   19070 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
 Saturday                 21189 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
@@ -70,18 +70,18 @@ Sunday                   26376 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               48 hrs 11 mins      ███████████████████████░░   93.47 % 
-JavaScript               2 hrs 10 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
-JSON                     37 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
+TypeScript               47 hrs 49 mins      ███████████████████████░░   92.81 % 
+JavaScript               2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
+Vue                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+JSON                     26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
 Bash                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Other                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  50 hrs 46 mins      █████████████████████████   98.46 % 
+VS Code                  50 hrs 43 mins      █████████████████████████   98.46 % 
 Copilot CLI              47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 💻 Operating System: 
-Linux                    51 hrs 33 mins      █████████████████████████   100.00 % 
+Linux                    51 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -89,7 +89,7 @@ Linux                    51 hrs 33 mins      ███████████�
 ```text
 ⏱ AI Coding Time: 1 hr 34 mins (3.05%)
 
-✍️ 0 lines written by AI, 3,468 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 3,484 lines written by hand (0.0% AI-written)
 
 🔤 98,514 Input Tokens, 26,795 Output Tokens
 
