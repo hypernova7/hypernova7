@@ -70,40 +70,40 @@ Sunday                   26376 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               34 hrs 21 mins      ███████████████████████░░   90.15 % 
-JavaScript               2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-JSON                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
-Vue                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-Bash                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+TypeScript               24 hrs 41 mins      ███████████████████████░░   93.30 % 
+Vue                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+JSON                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+JavaScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
+Bash                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
 
 🔥 Editors: 
-VS Code                  37 hrs 18 mins      ████████████████████████░   97.91 % 
-Copilot CLI              47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
+VS Code                  25 hrs 57 mins      █████████████████████████   98.14 % 
+Copilot CLI              29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
 
 💻 Operating System: 
-Linux                    38 hrs 6 mins       █████████████████████████   100.00 % 
+Linux                    26 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 34 mins (4.13%)
+⏱ AI Coding Time: 44 mins (2.81%)
 
-✍️ 0 lines written by AI, 1,994 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,331 lines written by hand (0.0% AI-written)
 
-🔤 98,514 Input Tokens, 26,795 Output Tokens
+🔤 70,404 Input Tokens, 18,195 Output Tokens
 
-💵 $0.72 Estimated AI Cost This Week
+💵 $0.65 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 12 AI Prompts
+🧠 1 AI Sessions, 8 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 218 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 195 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
