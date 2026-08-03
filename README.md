@@ -37,9 +37,9 @@
 <h2>:bar_chart: My activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C705%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C705%20hrs%2045%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2020%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2030%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.41%20million%20lines%20of%20code-blue?style=flat)
 
@@ -70,40 +70,40 @@ Sunday                   26376 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               24 hrs 41 mins      ███████████████████████░░   93.30 % 
-Vue                      31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
-JSON                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-JavaScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-Bash                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+TypeScript               14 hrs 11 mins      ██████████████████████░░░   88.97 % 
+Vue                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
+JavaScript               22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Bash                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 57 mins      █████████████████████████   98.14 % 
-Copilot CLI              29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+VS Code                  15 hrs 47 mins      █████████████████████████   99.05 % 
+Copilot CLI              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 💻 Operating System: 
-Linux                    26 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    15 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 44 mins (2.81%)
+⏱ AI Coding Time: 9 mins (0.95%)
 
-✍️ 0 lines written by AI, 1,331 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 711 lines written by hand (0.0% AI-written)
 
-🔤 70,404 Input Tokens, 18,195 Output Tokens
+🔤 126,108 Input Tokens, 443 Output Tokens
 
-💵 $0.65 Estimated AI Cost This Week
+💵 $0.78 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 8 AI Prompts
+🧠 1 AI Sessions, 1 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 195 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📝 Concise Prompter — average 116 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
