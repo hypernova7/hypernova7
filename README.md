@@ -37,7 +37,7 @@
 <h2>:bar_chart: My activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C706%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C708%20hrs%2052%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2030%20mins-blue?style=flat)
 
@@ -70,26 +70,26 @@ Sunday                   26376 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               7 hrs 39 mins       █████████████████████░░░░   83.97 % 
-Vue                      31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
-Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+TypeScript               8 hrs 38 mins       █████████████████████░░░░   82.52 % 
+Vue                      37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+Other                    9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Editors: 
-VS Code                  8 hrs 58 mins       █████████████████████████   98.34 % 
-Copilot CLI              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+VS Code                  10 hrs 18 mins      █████████████████████████   98.55 % 
+Copilot CLI              9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 💻 Operating System: 
-Linux                    9 hrs 7 mins        █████████████████████████   100.00 % 
+Linux                    10 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (1.66%)
+⏱ AI Coding Time: 9 mins (1.45%)
 
-✍️ 0 lines written by AI, 362 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 414 lines written by hand (0.0% AI-written)
 
 🔤 126,108 Input Tokens, 443 Output Tokens
 
