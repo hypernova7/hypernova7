@@ -37,7 +37,7 @@
 <h2>:bar_chart: My activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C764%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C767%20hrs%2011%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%20hrs%2030%20mins-blue?style=flat)
 
@@ -46,20 +46,20 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3469 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
-🌆 Daytime                24548 commits       █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-🌃 Evening                42852 commits       ████████░░░░░░░░░░░░░░░░░   33.91 % 
-🌙 Night                  55496 commits       ███████████░░░░░░░░░░░░░░   43.92 % 
+🌞 Morning                3469 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+🌆 Daytime                24548 commits       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+🌃 Evening                42852 commits       ████████░░░░░░░░░░░░░░░░░   33.90 % 
+🌙 Night                  55531 commits       ███████████░░░░░░░░░░░░░░   43.93 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   13667 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Tuesday                  17777 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
-Wednesday                13657 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-Thursday                 14629 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
-Friday                   19070 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Saturday                 21189 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Monday                   13674 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Tuesday                  17782 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
+Wednesday                13657 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+Thursday                 14629 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Friday                   19093 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Saturday                 21189 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
 Sunday                   26376 commits       █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
 ```
 
@@ -70,17 +70,17 @@ Sunday                   26376 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               42 hrs 18 mins      ████████████████████████░   94.74 % 
-Vue                      2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.56 % 
-JavaScript               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+TypeScript               39 hrs 49 mins      ███████████████████████░░   93.00 % 
+Vue                      2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+JavaScript               26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+JSON                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+CSS                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 
 🔥 Editors: 
-VS Code                  44 hrs 38 mins      █████████████████████████   100.00 % 
+VS Code                  42 hrs 48 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    44 hrs 38 mins      █████████████████████████   100.00 % 
+Linux                    42 hrs 48 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
