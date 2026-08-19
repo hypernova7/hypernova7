@@ -37,9 +37,9 @@
 <h2>:bar_chart: My activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C784%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C793%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2039%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2022%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.41%20million%20lines%20of%20code-blue?style=flat)
 
@@ -48,17 +48,17 @@
 ```text
 🌞 Morning                3469 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 🌆 Daytime                24548 commits       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-🌃 Evening                42852 commits       ████████░░░░░░░░░░░░░░░░░   33.90 % 
+🌃 Evening                42854 commits       ████████░░░░░░░░░░░░░░░░░   33.90 % 
 🌙 Night                  55531 commits       ███████████░░░░░░░░░░░░░░   43.93 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   13674 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+Monday                   13676 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
 Tuesday                  17782 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.07 % 
 Wednesday                13657 commits       ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
 Thursday                 14629 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Friday                   19093 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.11 % 
+Friday                   19093 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
 Saturday                 21189 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
 Sunday                   26376 commits       █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
 ```
@@ -70,41 +70,42 @@ Sunday                   26376 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               20 hrs 59 mins      ██████████████░░░░░░░░░░░   54.45 % 
-C++                      14 hrs 38 mins      █████████░░░░░░░░░░░░░░░░   37.98 % 
-C                        1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.84 % 
-Vue                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
-JSON                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+C++                      19 hrs 53 mins      █████████████░░░░░░░░░░░░   51.67 % 
+TypeScript               12 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   32.82 % 
+C                        3 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+Vue                      55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+JSON                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 🔥 Editors: 
-VS Code                  22 hrs 45 mins      ███████████████░░░░░░░░░░   59.05 % 
-Sublime Text             14 hrs 10 mins      █████████░░░░░░░░░░░░░░░░   36.76 % 
-Copilot CLI              1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+VS Code                  20 hrs 50 mins      ██████████████░░░░░░░░░░░   54.15 % 
+Sublime Text             15 hrs 37 mins      ██████████░░░░░░░░░░░░░░░   40.57 % 
+Copilot CLI              2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 
 💻 Operating System: 
-Linux                    38 hrs 32 mins      █████████████████████████   100.00 % 
+Linux                    38 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 9 mins (10.8%)
+⏱ AI Coding Time: 5 hrs 52 mins (15.26%)
 
-✍️ 0 lines written by AI, 3,780 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 3,657 lines written by hand (0.0% AI-written)
 
-🔤 1,635,217 Input Tokens, 545,432 Output Tokens
+🔤 2,115,854 Input Tokens, 940,572 Output Tokens
 
-💵 $25.73 Estimated AI Cost This Week
+💵 $35.86 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 30 AI Prompts
+🧠 4 AI Sessions, 44 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 266 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📝 Concise Prompter — average 289 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
