@@ -37,7 +37,7 @@
 <h2>:bar_chart: My activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C811%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C811%20hrs%2044%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2022%20mins-blue?style=flat)
 
@@ -70,33 +70,33 @@ Sunday                   26376 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-C++                      20 hrs 23 mins      ████████████████░░░░░░░░░   62.50 % 
-C                        3 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Docker                   2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-YAML                     2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
-QML                      1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+C++                      14 hrs 32 mins      ██████████████░░░░░░░░░░░   54.34 % 
+C                        3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Docker                   2 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+YAML                     2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+QML                      1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 29 mins      ████████████████░░░░░░░░░   62.82 % 
-Sublime Text             11 hrs 3 mins       ████████░░░░░░░░░░░░░░░░░   33.87 % 
-Copilot CLI              1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
+VS Code                  20 hrs 29 mins      ███████████████████░░░░░░   76.56 % 
+Sublime Text             5 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   21.91 % 
+Copilot CLI              24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
 
 💻 Operating System: 
-Linux                    32 hrs 37 mins      █████████████████████████   100.00 % 
+Linux                    26 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 32 mins (10.84%)
+⏱ AI Coding Time: 1 hr 42 mins (6.39%)
 
-✍️ 0 lines written by AI, 2,947 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,643 lines written by hand (0.0% AI-written)
 
-🔤 1,970,939 Input Tokens, 678,865 Output Tokens
+🔤 480,637 Input Tokens, 395,140 Output Tokens
 
-💵 $33.20 Estimated AI Cost This Week
+💵 $20.80 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 25 AI Prompts
+🧠 2 AI Sessions, 14 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -104,8 +104,8 @@ Haiku                    0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 269 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
+📝 Concise Prompter — average 339 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
