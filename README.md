@@ -37,7 +37,7 @@
 <h2>:bar_chart: My activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C816%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C820%20hrs%2032%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2022%20mins-blue?style=flat)
 
@@ -70,18 +70,18 @@ Sunday                   26376 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-C++                      9 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   39.82 % 
-YAML                     5 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
-Docker                   4 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
-QML                      1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
-C                        37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+YAML                     7 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   38.06 % 
+Docker                   5 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   29.21 % 
+C++                      2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+QML                      1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
+Rust                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 59 mins      ███████████████░░░░░░░░░░   59.95 % 
-Sublime Text             9 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   40.05 % 
+Sublime Text             13 hrs 26 mins      █████████████████░░░░░░░░   66.13 % 
+VS Code                  6 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   33.87 % 
 
 💻 Operating System: 
-Linux                    23 hrs 20 mins      █████████████████████████   100.00 % 
+Linux                    20 hrs 19 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,11 +93,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               18 repos            ██████████░░░░░░░░░░░░░░░   40.91 % 
-TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
-Shell                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+JavaScript               18 repos            ██████████░░░░░░░░░░░░░░░   41.86 % 
+TypeScript               7 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.28 % 
+Shell                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
 ```
 
 
