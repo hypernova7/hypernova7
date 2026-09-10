@@ -70,18 +70,18 @@ Sunday                   26376 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-YAML                     2 hrs               ███████████░░░░░░░░░░░░░░   44.54 % 
-GLSL                     46 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-TypeScript               42 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Docker                   24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+YAML                     1 hr 32 mins        ██████████░░░░░░░░░░░░░░░   41.15 % 
+TypeScript               42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
+GLSL                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
+Docker                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
+Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
 
 🔥 Editors: 
-Sublime Text             3 hrs 38 mins       ████████████████████░░░░░   80.40 % 
-VS Code                  53 mins             █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Sublime Text             2 hrs 50 mins       ███████████████████░░░░░░   76.27 % 
+VS Code                  53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
 
 💻 Operating System: 
-Linux                    4 hrs 31 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
