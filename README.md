@@ -37,7 +37,7 @@
 <h2>:bar_chart: My activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C838%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C838%20hrs%202%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2022%20mins-blue?style=flat)
 
@@ -70,18 +70,18 @@ Sunday                   26376 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-YAML                     1 hr 32 mins        ██████████░░░░░░░░░░░░░░░   41.15 % 
-TypeScript               42 mins             █████░░░░░░░░░░░░░░░░░░░░   19.02 % 
-GLSL                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Docker                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.72 % 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+YAML                     1 hr 32 mins        ██████████░░░░░░░░░░░░░░░   41.19 % 
+TypeScript               43 mins             █████░░░░░░░░░░░░░░░░░░░░   19.28 % 
+GLSL                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.43 % 
+Docker                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
+Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
 
 🔥 Editors: 
-Sublime Text             2 hrs 50 mins       ███████████████████░░░░░░   76.27 % 
-VS Code                  53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+Sublime Text             2 hrs 50 mins       ███████████████████░░░░░░   76.33 % 
+VS Code                  53 mins             ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
 
 💻 Operating System: 
-Linux                    3 hrs 44 mins       █████████████████████████   100.00 % 
+Linux                    3 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
