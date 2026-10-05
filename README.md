@@ -37,9 +37,9 @@
 <h2>:bar_chart: My activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C953%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C961%20hrs%2028%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2022%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2059%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.42%20million%20lines%20of%20code-blue?style=flat)
 
@@ -70,33 +70,48 @@ Sunday                   26376 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               30 hrs 57 mins      ███████████████████░░░░░░   77.58 % 
-JavaScript               3 hrs 57 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.93 % 
-Vue                      3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-JSON                     41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-SCSS                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+TypeScript               27 hrs 13 mins      ████████████████░░░░░░░░░   63.65 % 
+Vue                      6 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+JavaScript               4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
+CSS                      2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
+JSON                     41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 🔥 Editors: 
-VS Code                  39 hrs 54 mins      █████████████████████████   100.00 % 
+VS Code                  42 hrs 44 mins      █████████████████████████   99.91 % 
+Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Linux                    39 hrs 54 mins      █████████████████████████   100.00 % 
+Linux                    42 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 36 mins (1.42%)
+
+✍️ 0 lines written by AI, 15,957 lines written by hand (0.0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 33 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               18 repos            ██████████░░░░░░░░░░░░░░░   41.86 % 
-TypeScript               6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-Shell                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+JavaScript               18 repos            ███████████░░░░░░░░░░░░░░   42.86 % 
+TypeScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+Shell                    5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 
 
