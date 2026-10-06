@@ -37,7 +37,7 @@
 <h2>:bar_chart: My activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C961%20hrs%2028%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C963%20hrs%2039%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2059%20mins-blue?style=flat)
 
@@ -70,37 +70,39 @@ Sunday                   26376 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               27 hrs 13 mins      ████████████████░░░░░░░░░   63.65 % 
-Vue                      6 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-JavaScript               4 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.52 % 
-CSS                      2 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
-JSON                     41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+TypeScript               26 hrs 48 mins      ████████████████░░░░░░░░░   64.67 % 
+Vue                      6 hrs 18 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+CSS                      3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+JavaScript               3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+JSON                     41 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔥 Editors: 
-VS Code                  42 hrs 44 mins      █████████████████████████   99.91 % 
+VS Code                  41 hrs 25 mins      █████████████████████████   99.91 % 
 Copilot CLI              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 💻 Operating System: 
-Linux                    42 hrs 46 mins      █████████████████████████   100.00 % 
+Linux                    41 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (1.42%)
+⏱ AI Coding Time: 36 mins (1.47%)
 
-✍️ 0 lines written by AI, 15,957 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 15,959 lines written by hand (0.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 101,760 Input Tokens, 7,865 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $2.30 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 1 AI Prompts
+
+Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📝 Concise Prompter — average 33 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
