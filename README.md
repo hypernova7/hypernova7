@@ -37,7 +37,7 @@
 <h2>:bar_chart: My activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C994%20hrs%2020%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C996%20hrs%2043%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-8%20hrs%2059%20mins-blue?style=flat)
 
@@ -70,17 +70,17 @@ Sunday                   26376 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               19 hrs 26 mins      █████████████████░░░░░░░░   67.00 % 
-Vue                      5 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.16 % 
-CSS                      1 hr 36 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-JavaScript               1 hr 25 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-JSON                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.07 % 
+TypeScript               14 hrs 49 mins      ███████████████░░░░░░░░░░   58.29 % 
+Vue                      5 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
+CSS                      2 hrs 27 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+JSON                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+JavaScript               1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 1 min        █████████████████████████   100.00 % 
+VS Code                  25 hrs 25 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    29 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    25 hrs 25 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
