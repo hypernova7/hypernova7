@@ -37,7 +37,7 @@
 <h2>:bar_chart: My activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C002%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C008%20hrs%204%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-10%20hrs%2042%20mins-blue?style=flat)
 
@@ -70,27 +70,27 @@ Sunday                   26376 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               11 hrs 13 mins      ██████████████░░░░░░░░░░░   55.87 % 
-Vue                      5 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   26.38 % 
-JSON                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-CSS                      1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.36 % 
-JavaScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
+TypeScript               10 hrs 46 mins      ████████████░░░░░░░░░░░░░   48.50 % 
+Vue                      7 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   35.43 % 
+JSON                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+CSS                      1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.90 % 
+JavaScript               22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 55 mins      ████████████████████████░   94.23 % 
-Copilot CLI              1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+VS Code                  21 hrs 3 mins       ████████████████████████░   94.78 % 
+Copilot CLI              1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
 Copilot                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 💻 Operating System: 
-Linux                    20 hrs 5 mins       █████████████████████████   100.00 % 
+Linux                    22 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 43 mins (8.61%)
+⏱ AI Coding Time: 1 hr 43 mins (7.79%)
 
-✍️ 45 lines written by AI, 603 lines written by hand (6.94% AI-written)
+✍️ 45 lines written by AI, 817 lines written by hand (5.22% AI-written)
 
 🔤 16,126,457 Input Tokens, 1,300,076 Output Tokens
 
@@ -102,10 +102,10 @@ GPT                      46 lines            ███████████�
 Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 6.94% of written lines came from AI
+🧑‍💻 Mostly Hands-On — 5.22% of written lines came from AI
 📝 Concise Prompter — average 360 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🔍 Hands-On Reviewer — 95.87% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 96.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
