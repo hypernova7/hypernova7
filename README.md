@@ -37,9 +37,9 @@
 <h2>:bar_chart: My activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C045%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C050%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2015%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-15%20hrs%2033%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.42%20million%20lines%20of%20code-blue?style=flat)
 
@@ -70,41 +70,41 @@ Sunday                   26383 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               18 hrs 24 mins      █████████████████░░░░░░░░   67.09 % 
-Vue                      8 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.41 % 
-JavaScript               31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-TOML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+TypeScript               18 hrs 48 mins      █████████████████░░░░░░░░   68.37 % 
+Vue                      7 hrs 29 mins       ███████░░░░░░░░░░░░░░░░░░   27.24 % 
+JavaScript               31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+HTML                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
 
 🔥 Editors: 
-VS Code                  25 hrs 5 mins       ███████████████████████░░   91.47 % 
-Copilot CLI              2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+VS Code                  25 hrs 12 mins      ███████████████████████░░   91.60 % 
+Copilot CLI              2 hrs 18 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
 
 💻 Operating System: 
-Linux                    27 hrs 26 mins      █████████████████████████   100.00 % 
+Linux                    27 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 32 mins (16.57%)
+⏱ AI Coding Time: 4 hrs 24 mins (16.04%)
 
-✍️ 16 lines written by AI, 1,275 lines written by hand (1.24% AI-written)
+✍️ 16 lines written by AI, 1,091 lines written by hand (1.45% AI-written)
 
-🔤 6,079,504 Input Tokens, 743,188 Output Tokens
+🔤 6,998,608 Input Tokens, 819,736 Output Tokens
 
-💵 $5.79 Estimated AI Cost This Week
+💵 $5.95 Estimated AI Cost This Week
 
-🧠 13 AI Sessions, 35 AI Prompts
+🧠 14 AI Sessions, 35 AI Prompts
 
 GPT                      16 lines            █████████████████████████   100.00 % 
 Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 1.24% of written lines came from AI
-📝 Concise Prompter — average 315 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 99.12% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 1.45% of written lines came from AI
+📝 Concise Prompter — average 339 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🔍 Hands-On Reviewer — 99.02% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
