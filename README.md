@@ -37,7 +37,7 @@
 <h2>:bar_chart: My activity</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C140%20hrs%2045%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C142%20hrs%2013%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%202%20mins-blue?style=flat)
 
@@ -47,7 +47,7 @@
 
 ```text
 🌞 Morning                3469 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-🌆 Daytime                24660 commits       █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+🌆 Daytime                24663 commits       █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
 🌃 Evening                42941 commits       ████████░░░░░░░░░░░░░░░░░   33.91 % 
 🌙 Night                  55544 commits       ███████████░░░░░░░░░░░░░░   43.87 % 
 ```
@@ -60,7 +60,7 @@ Wednesday                13682 commits       ███░░░░░░░░�
 Thursday                 14663 commits       ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
 Friday                   19096 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.08 % 
 Saturday                 21207 commits       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-Sunday                   26383 commits       █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
+Sunday                   26386 commits       █████░░░░░░░░░░░░░░░░░░░░   20.84 % 
 ```
 
 
@@ -70,33 +70,33 @@ Sunday                   26383 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               9 hrs 38 mins       ██████████████████░░░░░░░   72.96 % 
-JavaScript               2 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-JSON                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
-Vue                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+TypeScript               6 hrs 15 mins       ███████████████░░░░░░░░░░   58.07 % 
+JSON                     2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+JavaScript               1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Bash                     19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Vue                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 45 mins      ████████████████████████░   96.52 % 
-Copilot CLI              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.00 % 
-Copilot                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+VS Code                  10 hrs 19 mins      ████████████████████████░   95.74 % 
+Copilot CLI              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
+Copilot                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
 
 💻 Operating System: 
-Linux                    13 hrs 12 mins      █████████████████████████   100.00 % 
+Linux                    10 hrs 47 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 mins (3.37%)
+⏱ AI Coding Time: 26 mins (4.13%)
 
-✍️ 0 lines written by AI, 15,363 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 495 lines written by hand (0.0% AI-written)
 
-🔤 102,725 Input Tokens, 0 Output Tokens
+🔤 102,725 Input Tokens, 179,019 Output Tokens
 
-💵 $6.48 Estimated AI Cost This Week
+💵 $6.57 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 1 AI Prompts
 
 GPT                      13 lines            █████████████████████████   100.00 % 
 Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
@@ -104,7 +104,7 @@ Code                     0 lines             ░░░░░░░░░░░�
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
 📚 Verbose Prompter — average 2,018 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+🎯 One-Shot Prompter — average 0 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
