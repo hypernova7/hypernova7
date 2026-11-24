@@ -70,18 +70,18 @@ Sunday                   26386 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               4 hrs 51 mins       ███████████████░░░░░░░░░░   61.77 % 
-JSON                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-JavaScript               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Bash                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.04 % 
-Vue                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+TypeScript               4 hrs 49 mins       ███████████████░░░░░░░░░░   60.95 % 
+JSON                     51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+JavaScript               44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Bash                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Vue                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 51 mins       █████████████████████████   99.81 % 
-Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+VS Code                  7 hrs 54 mins       █████████████████████████   99.82 % 
+Copilot CLI              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 💻 Operating System: 
-Linux                    7 hrs 52 mins       █████████████████████████   100.00 % 
+Linux                    7 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
