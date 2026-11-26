@@ -70,17 +70,17 @@ Sunday                   26386 commits       █████░░░░░░�
 🕑︎ Time Zone: America/Mexico_City
 
 💬 Programming Languages: 
-TypeScript               4 hrs 39 mins       ████████████████░░░░░░░░░   63.48 % 
-JSON                     47 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.90 % 
-JavaScript               44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Vue                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+TypeScript               4 hrs 12 mins       ███████████████░░░░░░░░░░   60.97 % 
+JSON                     49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+JavaScript               44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
+Vue                      32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+Other                    24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 19 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    7 hrs 19 mins       █████████████████████████   100.00 % 
+Linux                    6 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
